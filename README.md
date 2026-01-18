@@ -1,6 +1,6 @@
 # Spellskite – Portfolio Cybersécurité & Informatique
 
-👋 Passionné par la cybersécurité, les réseaux, l’architecture informatique et le développement.
+Passionné par la cybersécurité, les réseaux, l’architecture informatique et le développement.
 Top 1% sur [TryHackMe](https://tryhackme.com/p/Spellskite) – À la recherche d’opportunités en cybersécurité.
 
 ## 🔧 Compétences
@@ -11,7 +11,7 @@ Top 1% sur [TryHackMe](https://tryhackme.com/p/Spellskite) – À la recherche d
 
 ## 📜 Certifications & Formations
 - [Cyberini – Liste complète](https://cyberini.com/profil/jakegreenygo/)
-- [TryHackMe - Top 1%](https://tryhackme.com/p/Spellskite)(<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5714168" style='border:none;'></iframe>)
+- [TryHackMe - Top 1%](https://tryhackme.com/p/Spellskite)
 - [Microsoft Learn – Badges](https://learn.microsoft.com/fr-fr/users/spellskite/)
 
 ## 🛠️ Projets marquants
