@@ -10,9 +10,9 @@ Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma
 - **Architecture** : Cloud (Azure), virtualisation, architecture des systèmes informatiques
 
 ## 📜 Certifications & Formations
-- [Cyberini – Liste complète](https://cyberini.com/profil/jakegreenygo/)
-- [TryHackMe - Top 1%](https://tryhackme.com/p/Spellskite)
-- [Microsoft Learn – Badges](https://learn.microsoft.com/fr-fr/users/spellskite/)
+- [Cyberini – Liste complète de formations et certifications](https://cyberini.com/profil/jakegreenygo/)
+- [TryHackMe - Top 1% - Formations et challenges](https://tryhackme.com/p/Spellskite)
+- [Microsoft Learn – Formations](https://learn.microsoft.com/fr-fr/users/spellskite/)
 
 ## 🛠️ Projets marquants
 - [Guide cybersécurité](https://github.com/Spellskite-coding/Guide_cybersecurite) : Guide complet d'outils et de commandes pour aider la communauté de la cybersécurité.
