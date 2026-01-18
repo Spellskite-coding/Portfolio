@@ -1,7 +1,7 @@
 # Spellskite – Portfolio Cybersécurité & Informatique
 
 Passionné par la cybersécurité, les réseaux, l’architecture informatique et le développement.
-Top 1% sur [TryHackMe](https://tryhackme.com/p/Spellskite) – À la recherche d’opportunités en cybersécurité.
+Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma passion mon métier.
 
 ## 🔧 Compétences
 - **Cybersécurité** : Pentest, SOC, sécurisation des systèmes, analyse de malwares, sensibilisation des utilisateurs
