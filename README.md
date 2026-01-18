@@ -16,10 +16,15 @@ Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma
 
 ## 🛠️ Projets marquants
 - [Guide cybersécurité](https://github.com/Spellskite-coding/Guide_cybersecurite) : Guide complet d'outils et de commandes pour aider la communauté de la cybersécurité.
+- 
 - [SQLi_XSS_tester](https://github.com/Spellskite-coding/SQLi_XSS_tester) : Script automatisant l'énumération afin de trouver des vulnérabilités SQL et XSS sur les sites web lors d'un pentest.
+- 
 - [LFI_tester](https://github.com/Spellskite-coding/LFI_tester) : Script automatisant l'énumération afin de trouver des vulnérabilités LFI sur les sites web lors d'un pentest.
+- 
 - [La_meuh](https://github.com/Spellskite-coding/La_meuh) : Application permettant de mettre à jour les programmes sur Windows en toute sécurité et en toute simplicité.
+- 
 - [Hus-Clean](https://github.com/Spellskite-coding/hus-clean) : Application permettant de nettoyer les fichiers temporaires de Windows ainsi que les cookies indésirables des navigateurs, en toute sécurité et simplicité.
+- 
 - [Site web Williwaw](https://williwaw76.com/) : Site web du groupe de musique Williwaw. Le site centralise les informations et nouveautés du groupe, via une interface sobre et chaleureuse.
 
 ## 📫 Contact
