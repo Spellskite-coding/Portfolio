@@ -28,5 +28,5 @@ Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma
 - [Site web Williwaw](https://williwaw76.com/) : Site web du groupe de musique Williwaw. Le site centralise les informations et nouveautés du groupe, via une interface sobre et chaleureuse.
 
 ## 📫 Contact
-- LinkedIn : [www.linkedin.com/in/enzo-demaretz-40b5083a6]
+- LinkedIn : www.linkedin.com/in/enzo-demaretz-40b5083a6
 - Email : [enzo.demaretz.pro@gmail.com](mailto:enzo.demaretz.pro@gmail.com)
