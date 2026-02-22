@@ -1,7 +1,6 @@
-# Enzo Demaretz – Portfolio Cybersécurité & Informatique
+# Enzo Demaretz – Portfolio Cybersécurité
 
-Passionné par la cybersécurité, les réseaux, l’architecture informatique et le développement.
-Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma passion mon métier.
+Passionné par la cybersécurité, les réseaux, d’architecture informatique, de développement, d'analyse de malwares et d'administration système.
 
 ## 🔧 Compétences
 
@@ -38,3 +37,4 @@ Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma
 ## 📫 Contact
 - LinkedIn : www.linkedin.com/in/enzo-demaretz-40b5083a6
 - Email : [enzo.demaretz.pro@gmail.com](mailto:enzo.demaretz.pro@gmail.com)
+- Site Web : https://safeblueconseil.fr/
