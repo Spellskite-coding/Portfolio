@@ -1,20 +1,28 @@
-# Spellskite – Portfolio Cybersécurité & Informatique
+# Enzo Demaretz – Portfolio Cybersécurité & Informatique
 
 Passionné par la cybersécurité, les réseaux, l’architecture informatique et le développement.
 Je suis à la recherche d’opportunités en cybersécurité afin de faire de ma passion mon métier.
 
 ## 🔧 Compétences
+
 - **Cybersécurité** : Pentest, SOC, sécurisation des systèmes, analyse de malwares, sensibilisation des utilisateurs
 - **Réseaux** : TCP/IP, Wireshark, Nmap, VPN, Firewall
-- **Développement** : Python, PowerShell, C/C++, Java, HTML/CSS/PHP
+- **Développement** : Python, PowerShell, C/C++, HTML/CSS/PHP
 - **Architecture** : Cloud (Azure), virtualisation, architecture des systèmes informatiques
 
 ## 📜 Certifications & Formations
+
+- [LinkedIn - Parcours professionnel, certifications, formations et actualités](https://www.linkedin.com/in/enzo-demaretz-40b5083a6/)
 - [Cyberini – Liste complète de formations et certifications](https://cyberini.com/profil/jakegreenygo/)
 - [TryHackMe - Top 1% - Formations et challenges](https://tryhackme.com/p/Spellskite)
 - [Microsoft Learn – Formations](https://learn.microsoft.com/fr-fr/users/spellskite/)
 
 ## 🛠️ Projets marquants
+
+- [Analyses de malwares](https://github.com/Spellskite-coding/Analyse_de_binaires) : Rapports de mes analyses de binaires malveillants.
+
+- [Administration Systèmes Sécurisés](https://github.com/Spellskite-coding/Security_System_Administrator) : Procédures pour administrer des systèmes sécurisés, et des projets en lien avec la cybersécurité.
+
 - [Guide cybersécurité](https://github.com/Spellskite-coding/Guide_cybersecurite) : Guide complet d'outils et de commandes pour aider la communauté de la cybersécurité.
   
 - [SQLi_XSS_tester](https://github.com/Spellskite-coding/SQLi_XSS_tester) : Script automatisant l'énumération afin de trouver des vulnérabilités SQL et XSS sur les sites web lors d'un pentest.
